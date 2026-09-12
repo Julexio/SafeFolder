@@ -1,1 +1,1 @@
-#"Sabi daw nila bawal umutot sa Apple Store, Bakit? Kasi Wala silang Windows."
+#Sabi daw nila bawal umutot sa Apple Store, Bakit? Kasi Wala silang Windows.
